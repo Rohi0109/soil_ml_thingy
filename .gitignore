@@ -18,3 +18,9 @@ token.json
 
 # Office temp/lock files
 ~$*
+
+# Data files (too large / sensitive for git)
+*.xlsx
+*.xls
+*.csv
+downloaded_photos/
