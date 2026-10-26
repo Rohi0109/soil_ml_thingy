@@ -24,3 +24,12 @@ token.json
 *.xls
 *.csv
 downloaded_photos/
+
+# Generated model artifacts
+checkpoints/
+
+# Scraping scripts (not relevant to the ML work)
+scripts/
+scrape_album.py
+specs.MD
+feature_importance.png
